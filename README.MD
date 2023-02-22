@@ -18,7 +18,7 @@ Please be sure to provide a detailed description of your changes and why you bel
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Which means everything is free to use. We do ask that if you want to use the index page please give credit, but games are free to use.
+This project is licensed under the [MIT License](LICENSE). Which means everything is free to use. We do ask that if you want to use the index page please give credit it is not required but we spend hours on it. **GAMES ARE ALWAYS FREE TO USE**
 
 ## Contact
 
