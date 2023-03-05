@@ -205,11 +205,18 @@ replit.black{
   filter: brightness(0%);
 }
 
-.center {
+.logocenter {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 10%;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
 
   .gamecenter {
